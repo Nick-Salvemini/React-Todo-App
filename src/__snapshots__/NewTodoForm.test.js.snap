@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NewTodoForm component matches snapshot 1`] = `
+<div>
+  <form>
+    <label
+      for="task"
+    >
+      Task: 
+    </label>
+    <input
+      id="task"
+      name="task"
+      placeholder="New Task"
+      type="text"
+      value=""
+    />
+    <button>
+      Add New Task
+    </button>
+  </form>
+</div>
+`;

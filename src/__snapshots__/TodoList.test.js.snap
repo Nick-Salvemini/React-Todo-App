@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoList component matches snapshot 1`] = `
+<div>
+  <h1>
+    Todo List
+  </h1>
+  <form>
+    <label
+      for="task"
+    >
+      Task: 
+    </label>
+    <input
+      id="task"
+      name="task"
+      placeholder="New Task"
+      type="text"
+      value=""
+    />
+    <button>
+      Add New Task
+    </button>
+  </form>
+  <div />
+</div>
+`;

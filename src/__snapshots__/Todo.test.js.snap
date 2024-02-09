@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Todo component matches snapshot 1`] = `
+<div>
+  <div
+    style="display: block;"
+  >
+    <p
+      style="display: inline;"
+    >
+      Sample task
+    </p>
+    <button
+      style="display: inline;"
+    >
+      X
+    </button>
+  </div>
+</div>
+`;
